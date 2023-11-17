@@ -1,0 +1,2 @@
+# robots.txt file of https://www.dailyintention.co
+sitemap: https://www.dailyintention.co/sitemap.txt
